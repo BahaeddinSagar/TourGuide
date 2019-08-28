@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tripoli</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="Tripoli">Tripoli</string>
+    <string name="Benghazi">Benghazi</string>
+    <string name="Musrata">Musrata</string>
+    <string name="Sabha">Sabha</string>
+    <string name="Zawia">Zawia</string>
+    <string name="Khomos">Khomos</string>
+    <string name="Natural_Arches">Natural Arches</string>
+    <string name="Watterfalls">Watterfalls</string>
+    <string name="RockCaveArt">Rock and Cave Art</string>
+    <string name="Garamantes">Landmarks of Garamantes</string>
+    <string name="LandmarksGreekEtc">Landmarks of Phoenicians, Greeks and Romans</string>
+    <string name="Landmarks">Landmarks</string>
+    <string name="Cities">Cities</string>
+    <string name="Resturants">Resturants</string>
+    <string name="Pizza_J3J3">Pizza J3J3</string>
+    <string name="Dilevry_Cafe">Dilevry Cafe</string>
+    <string name="Lamma">Lamma</string>
+    <string name="Taza">Taza</string>
+    <string name="ThePalmCafe">The Palm Cafe</string>
+    <string name="Pizza_Family">Pizza Family</string>
+    <string name="PapaRotiRestaurant">Papa Roti Restaurant</string>
+    <string name="Events">Events</string>
+    <string name="Weddings">Weddings</string>
+    <string name="Parties">Parties</string>
+    <string name="Conferences">Conferences</string>
+</resources>
